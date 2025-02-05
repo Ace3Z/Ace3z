@@ -1,6 +1,6 @@
 # 🚀 Mahbod Tajdini
 
-🎓 **AI Student | Data Science Enthusiast | Teaching Assistant**  
+🎓 **AI Student | Data Science Enthusiast**  
 📍 Amsterdam, Netherlands  
 📧 mahbodtajdini@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mahbodtajdini/)  
