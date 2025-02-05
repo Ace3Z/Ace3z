@@ -23,10 +23,6 @@ I am a **Bachelor's student in Artificial Intelligence** at Vrije Universiteit A
 **Data Science:** Pandas, NumPy, Matplotlib, Seaborn  
 **Dev Tools:** Git, Docker, Flask  
 
----
-
-## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbodtajdini&layout=compact&theme=radical)  
 
 ---
 
